@@ -18,6 +18,6 @@
 |  integration         |  permet à tous les éléments d'un environnement informatique de fonctionner ensemble                      |
 |  javasript           |  langage de programmation qui permet de créer du contenu mis à jour de façon dynamique                   |
 |  ligne de commande   |  interagir avec un système informatique en entrant des lignes d’instructions textuelles dans un terminal |
-|  php                 |  Hypertext Preprocessor langage utilisé pour produire des pages web dynamiques via un serveur ** HTTP**  |
+|  php                 |  Hypertext Preprocessor langage utilisé pour produire des pages web dynamiques via un serveur**HTTP**    |
 |  serveur             |  composants materiels ou logiciels qui stocke les données                                                |
 |                      |                                                                                                          |
