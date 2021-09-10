@@ -21,3 +21,5 @@
 |  php                 |  Hypertext Preprocessor langage utilisé pour produire des pages web dynamiques via un serveur**HTTP**    |
 |  serveur             |  composants materiels ou logiciels qui stocke les données                                                |
 |                      |                                                                                                          |
+
+ ![languages formation](/lexique/images/languages.png)
